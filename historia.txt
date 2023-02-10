@@ -7,6 +7,8 @@ naci en colombia  vivo en medellin
 
 mide 1.60
 
+experimento 1
+
 master 1
 
 master 2
